@@ -4,4 +4,10 @@ Welcome to Testing World
 Equivalence
 Boundary value
 Decision table
+
 Use case
+
+
+
+Path testing
+
